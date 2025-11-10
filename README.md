@@ -19,3 +19,4 @@ down something you shipped or learned.
 
 ## Activity Log
 - [2025-11-09 15:51:21 PST] I created you, the github auto activity commiter!
+- [2025-11-09 16:15:54 PST] Custom shell 'slugterm' to take in either a command or a string of commands to pipe in output of one command into the next
