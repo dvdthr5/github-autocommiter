@@ -23,3 +23,4 @@ down something you shipped or learned.
 - [2025-11-09 22:17:12 PST] Picked up three new books, two oreily and one from openai
 - [2025-11-10 11:15:41 PST] Figured out how to use my capture card on the switch
 - [2025-11-10 17:00:27 PST] Started reading Software Reliabillity Engineering by Oreily
+- [2025-11-10 17:01:19 PST] attended all classes, prepared schedule for next quarter, likely oging to be much harder than the current, taknig a prereq class so I can focus ML on my electives
