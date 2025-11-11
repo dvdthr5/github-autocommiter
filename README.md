@@ -22,3 +22,4 @@ down something you shipped or learned.
 - [2025-11-09 16:15:54 PST] Custom shell 'slugterm' to take in either a command or a string of commands to pipe in output of one command into the next
 - [2025-11-09 22:17:12 PST] Picked up three new books, two oreily and one from openai
 - [2025-11-10 11:15:41 PST] Figured out how to use my capture card on the switch
+- [2025-11-10 17:00:27 PST] Started reading Software Reliabillity Engineering by Oreily
