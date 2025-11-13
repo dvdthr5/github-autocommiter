@@ -26,3 +26,4 @@ down something you shipped or learned.
 - [2025-11-10 17:01:19 PST] attended all classes, prepared schedule for next quarter, likely oging to be much harder than the current, taknig a prereq class so I can focus ML on my electives
 - [2025-11-12 11:07:39 PST] I finished my slugterm custom shell, supporting commands, pipelines, and errorcodes, shell is private for a few weeks until I finish this quarter
 - [2025-11-12 11:08:22 PST] Started the mass surveilence reflection about surveillence systems that I encounter on a daily basis, will formalize the logs and create a display once the logs have finished
+- [2025-11-12 22:03:08 PST] started parsing video for data for base model, will be a long process
