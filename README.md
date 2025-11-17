@@ -28,3 +28,4 @@ down something you shipped or learned.
 - [2025-11-12 11:08:22 PST] Started the mass surveilence reflection about surveillence systems that I encounter on a daily basis, will formalize the logs and create a display once the logs have finished
 - [2025-11-12 22:03:08 PST] started parsing video for data for base model, will be a long process
 - [2025-11-12 22:03:25 PST] also started working on building more complicated permutation algorithms
+- [2025-11-17 12:43:19 PST] Started work on custom HTTP Server (school proj)
