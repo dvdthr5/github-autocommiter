@@ -31,3 +31,4 @@ down something you shipped or learned.
 - [2025-11-17 12:43:19 PST] Started work on custom HTTP Server (school proj)
 - [2025-11-18 14:18:02 PST] Started writing a paper on Issues with Mass Surveillance, thinking about adding a blog sectoin to my page,
 - [2025-11-19 18:16:01 PST] Started building an http server, focussing now on the design document, specifically how it will be abstracted, modularized, parallelized, and locally tested
+- [2025-11-27 21:36:04 PST] Have been grinding the hacker rank, gotten lots of questions done, prepping for a hackerrank exam
